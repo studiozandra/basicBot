@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\zan\\knowCapp\\starter-pack-rasa-nlu\\models\\current\\model_20190520-150135\\component_4_EmbeddingIntentClassifier.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\zan\\knowCapp\\starter-pack-rasa-nlu\\models\\current\\model_20190520-150135\\component_4_EmbeddingIntentClassifier.ckpt"
