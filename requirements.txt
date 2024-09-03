@@ -22,7 +22,7 @@ networkx==2.1
 pykwalify<=1.6.0
 coloredlogs==10.0
 flask==2.3.2
-flask_cors==3.0.9
+flask_cors==5.0.0
 scikit-learn==1.5.0
 rasa_nlu~=0.13.0
 colorhash==1.0.2
